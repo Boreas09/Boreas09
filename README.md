@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Bora Atik, currently working on Expectium.io
+I am Bora Atik
 <!--
 **Boreas09/Boreas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
